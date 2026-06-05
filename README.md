@@ -46,7 +46,7 @@ df = pd.read_excel("data/Tashkent_CRM_online_project.xlsx")
 df['Jami_Qiymati_USD'] = pd.to_numeric(df['Jami_Qiymati_USD'], errors='coerce').fillna(0)
 print("Data pipeline status: 200 OK. Cleaned successfully.")
 
-```python
+```
 ---
 
 ## 📸 Screenshots (Rasmlar)
