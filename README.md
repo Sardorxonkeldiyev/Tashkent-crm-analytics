@@ -36,6 +36,18 @@ This project is a Data Analytics solution built for a major real estate and cons
 
 ---
 
+```python
+import pandas as pd
+
+# Automated data cleaning pipeline for Excel sheets
+df = pd.read_excel("data/Tashkent_CRM_online_project.xlsx")
+
+# Structural cleaning & handling string errors in numeric columns
+df['Jami_Qiymati_USD'] = pd.to_numeric(df['Jami_Qiymati_USD'], errors='coerce').fillna(0)
+print("Data pipeline status: 200 OK. Cleaned successfully.")
+
+---
+
 ## 📸 Screenshots (Rasmlar)
 
 ### 1. Shartnomalar / Contracts
