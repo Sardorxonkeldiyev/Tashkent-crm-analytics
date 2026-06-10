@@ -56,4 +56,4 @@ print("Data pipeline status: 200 OK. Cleaned successfully.")
 
 
 ### 2. Mijozlar / Clients
-<img width="1275" height="720" alt="Tashkent_CRM" src="https://github.com/user-attachments/assets/9e27ea04-fd41-4f06-8ecd-dca201cb8003" />
+<img width="1275" height="716" alt="Tashkent_CRM_Mijozlar" src="https://github.com/user-attachments/assets/d1f71275-4ec1-4e71-8d42-55570e3d30e0" />
