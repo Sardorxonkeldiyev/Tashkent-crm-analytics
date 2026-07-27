@@ -52,8 +52,9 @@ print("Data pipeline status: 200 OK. Cleaned successfully.")
 ## 📸 Screenshots (Rasmlar)
 
 ### 1. Shartnomalar / Contracts
-<img width="1270" height="695" alt="Tashkent_CRM2" src="https://github.com/user-attachments/assets/14bf5e87-b8fb-4527-8c46-2c18f0219936" />
+<img width="1273" height="714" alt="Tashkent_CRM_online_1" src="https://github.com/user-attachments/assets/1b57ab0e-b259-4c62-8127-8c75cbe20415" />
+
 
 
 ### 2. Mijozlar / Clients
-<img width="1275" height="716" alt="Tashkent_CRM_Mijozlar" src="https://github.com/user-attachments/assets/d1f71275-4ec1-4e71-8d42-55570e3d30e0" />
+<img width="1272" height="704" alt="Tashkent_CRM_online_2" src="https://github.com/user-attachments/assets/a4c65eee-e50f-47fe-a83a-6b2783547a48" />
